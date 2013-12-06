@@ -1,0 +1,5 @@
+06 十二月 2013 21:38:57,800 INFO  ~ Starting D:\Dropbox\JAVA\WEB\play!\yabe
+06 十二月 2013 21:38:59,304 WARN  ~ You're running Play! in DEV mode
+06 十二月 2013 21:38:59,457 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...
+06 十二月 2013 21:39:08,833 INFO  ~ Connected to jdbc:h2:mem:play;MODE=MYSQL;LOCK_MODE=0
+06 十二月 2013 21:39:10,024 INFO  ~ Application 'Yet Another Blog Engine' is now started !
